@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "esnext",
+    "jsx": "preserve",
+    "baseUrl": "src",
+    "lib": ["dom", "esnext"],
+    "noEmit": true,
+    "resolveJsonModule": true,
+    "noUnusedLocals": false,
+    "esModuleInterop": true
+  },
+  "include": ["./src/**/*"]
+}
