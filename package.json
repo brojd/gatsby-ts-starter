@@ -20,7 +20,7 @@
     "gatsby-plugin-sass": "^2.1.17",
     "gatsby-plugin-typescript": "^2.1.11",
     "gatsby-plugin-typescript-css-modules": "^1.0.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1"
   },
